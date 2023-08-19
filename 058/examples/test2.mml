@@ -1,0 +1,11 @@
+begin
+  int x = 0;
+  while (x <= 4) {
+    int y = 0;
+    x = x + 1;  
+    y!!
+    stop;
+  }
+  x!!
+  return 0;
+end
